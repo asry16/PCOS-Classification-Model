@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Embedded Python Distributable / Local Installer binaries
+pyembed/
+python-embed.zip
+get-pip.py
+
+# macOS & OS artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Testing & Linting caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
